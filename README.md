@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sebastian Jardi Estadella</h1>
 <h3 align="center">A passionate Automation Engineer in Spain.</h3>
 
-- 🔭 I’m currently working on **COGEN Energía España**
+- I’m currently working on **COGEN Energía España**
 
-- 👯 I’m looking to collaborate on **SCADA Developer**
+- I’m looking to collaborate on **SCADA Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/sebas je" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sebas je" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC_QfbvP7RGCMhA-WefCdNNA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sebas je" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
