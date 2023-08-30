@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastian Jardi Estadella</h1>
+<h1 align="center">Hi, I'm Sebastian Jardi Estadella</h1>
 <h3 align="center">A passionate Automation Engineer in Spain.</h3>
 
 - I’m currently working on **COGEN Energía España**
