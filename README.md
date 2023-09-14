@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Sebastian Jardi Estadella</h1>
 <h3 align="center">A passionate Automation Engineer in Spain.</h3>
 
-- I’m currently working on **COGEN Energía España**
+- I’m currently working in **COGEN Energía España**, as **Operation and Maintenance of a CoGeneration Plant**.
 
-- I’m looking to collaborate on **SCADA Developer**
+- I’m looking to collaborate on **Industrial Automation and SCADA Developer**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
