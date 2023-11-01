@@ -8,6 +8,7 @@ Here you can find some information aobut projects I made, or I am working on.
 
 <h3>Other Programming Reference Codes:</h3>
 <a href="https://github.com/SEUTec/Bash_Scripts">Bash Scripts</a>. Basic Shell Scripts and Real Life Scripts</a>
+
 More, coming soon.
 
 <h3 align="left">More about me:</h3>
