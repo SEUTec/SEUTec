@@ -7,7 +7,8 @@ I’m looking to collaborate on **Industrial Automation, SCADA Developer, R&D, o
 Here you can find some information aobut projects I made, or I am working on.
 
 <h3>Other Programming Reference Codes:</h3>
-<a href="https://github.com/SEUTec/Bash_Scripts">Bash Scripts</a>. Basic Shell Scripts and Real Life Scripts</a>.
+<p><a href="https://github.com/SEUTec/Bash_Scripts">Bash Scripts</a>. Basic Shell Scripts and Real Life Scripts</a>.</p>
+<p><a href="https://github.com/SEUTec/Numerical_Methods">Numerical Methods.</a>Numerical Methods for Engineering in PASCAL.</p>
 
 <a href="https://github.com/SEUTec/octave_matlab">GNU Octave / MATLAB</a>. Some *.m file created and tested using GNU Octave for reference, but supposed to run on MATLAB.
 
