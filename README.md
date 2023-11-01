@@ -2,15 +2,16 @@
 <h3 align="center">A passionate Automation Engineer in Spain.</h3>
 
 I’m currently working in **COGEN Energía España**, as **Operation and Maintenance of a CoGeneration Plant**.\
-I’m looking to collaborate on **Industrial Automation, SCADA Developer, R&D, or any other interesting subject**.\
+I’m looking to collaborate on **Industrial Automation, SCADA Developer, R&D, or any other interesting subject**.
 
 Here you can find some information aobut projects I made, or I am working on.
-
-
-Other Programming Reference Codes:
 ```
-Bash Scripts
+
 ```
+
+<h3>Other Programming Reference Codes:</h3>
+<a href="https://github.com/SEUTec/Bash_Scripts">Bash Scripts</a>. Basic Shell Scripts and Real Life Scripts</a>
+
 <h3 align="left">More about me:</h3>
 <p  align="left"><a href="https://usuaris.tinet.cat/sje/index.html">SEUTec WebPage</a>.</p>
 <p align="left">
