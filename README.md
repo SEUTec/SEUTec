@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sebastian Jardi Estadella</h1>
-<h3 align="center">A passionate Automation Engineer in Spain.</h3>
+<h3 align="center">A passionate Embedded Hardware and Software Developer in Spain.</h3>
 
-I’m currently working in **COGEN Energía España**, as **Operation and Maintenance of a CoGeneration Plant**.\
-I’m looking to collaborate on **Industrial Automation, SCADA Developer, R&D, or any other interesting subject**.
+I’m currently working in **NTsensors**, as **Technical developer**.\
+I’m looking to collaborate on **Embedded Systems for Automation, R&D, Firmware development, 3DPrinting or any other interesting subject**.
 
 <h3>Here you can find some information about projects I made, or I am working on.</h3>
 <p><a href="https://github.com/SEUTec/matlab_simulink">MATALB - Simulink</a>. MATLAB and Simulink for Engineering Documents.</p>
