@@ -5,10 +5,15 @@ I’m currently working in **NTsensors**, as **Technical developer**.\
 I’m looking to collaborate on **Embedded Systems for Automation, R&D, Firmware development, 3DPrinting or any other interesting subject**.
 
 <h3>Here you can find some information about projects I made, or I am working on.</h3>
-<p><a href="https://github.com/SEUTec/matlab_simulink">MATALB - Simulink</a>. MATLAB and Simulink for Engineering Documents.</p>
+<p><a href="https://github.com/SEUTec/matlab_simulink">MATLAB - Simulink</a>. MATLAB and Simulink for Engineering Documents.</p>
 <p>More, coming soon. Maxima, Scilab, Python, Jupyter, etc...</p>
 
+<h3>Embedded Programming Reference Codes:</h3>
+<p><a href="https://github.com/SEUTec/Arduino">Arduino Projects</a>. Arduino simple reference projects.</a>.</p>
+<p><a href="https://github.com/SEUTec/Embedded_Refs">Embedded Refs</a>. Arduino IDE simple devices reference tests. As ADCs, DACS, Displays, sensors, etc...</a>.</p>
+
 <h3>Other Programming Reference Codes:</h3>
+<p><a href="https://github.com/SEUTec/Conceptos_Rust">Conceptos Rust</a>. Código de ejemplo que te ayudarán a entender cómo utilizar Rust en tus proyectos.</a>.</p>
 <p><a href="https://github.com/SEUTec/Bash_Scripts">Bash Scripts</a>. Basic Shell Scripts and Real Life Scripts</a>.</p>
 <p><a href="https://github.com/SEUTec/Numerical_Methods">Numerical Methods</a>. Numerical Methods for Engineering in PASCAL.</p>
 <p><a href="https://github.com/SEUTec/octave_matlab">GNU Octave / MATLAB</a>. Some *.m file created and tested using GNU Octave for reference, but supposed to run on MATLAB.</p>
